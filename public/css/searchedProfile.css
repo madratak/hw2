@@ -1,0 +1,27 @@
+#follow_unfollow{
+    position: relative;
+    left: 2.5%;
+    background-color: white;
+    height: 3.2%;
+    width: 150px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: 1px solid rgb(238, 238, 238);
+    border-radius: 12px;
+    padding: 0.3% 0;
+    background-color: rgba(185, 185, 185, 0.25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#follow_unfollow:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+@media(max-width: 600px){
+    #follow_unfollow{
+        width: 120px;
+    }
+}
