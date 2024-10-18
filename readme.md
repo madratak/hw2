@@ -1,6 +1,6 @@
 # Blog: Your Musical Connection Hub
 <div align="center">
-  <img src="[link-to-your-screenshot](https://github.com/madratak/hw2/blob/main/public/img/blog.png)" alt="Blog Logo" />
+  <img src="https://github.com/madratak/hw2/blob/main/public/img/blog.png" alt="Blog Logo" />
 </div>
 
 ## 🎶 Overview
