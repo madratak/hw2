@@ -45,7 +45,8 @@ return [
 
         'mongodb' => [
             'driver' => 'mongodb',
-            'dsn' => env('DB_URI', 'mongodb+srv://blogger:blog@clusterhomework.ywxijjj.mongodb.net/?retryWrites=true&w=majority'),
+            // 'dsn' => env('DB_URI', 'mongodb+srv://blogger:blog@cluster0.ywxijjj.mongodb.net/?retryWrites=true&w=majority'),
+            'dsn' => env('DB_URI', 'mongodb+srv://blogger:blog@cluster0.cvsaz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'),
             'database' => 'Homework2',
         ],
 
